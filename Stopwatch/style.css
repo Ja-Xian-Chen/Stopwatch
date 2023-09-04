@@ -1,0 +1,25 @@
+body {
+    background-color: #f782b9;
+    font-family: Josefin Sans, monospace;
+    color: white
+}
+.button {     
+    height:70px;
+    width:100px;   
+    font-size: 20px;
+    font-weight : thin;
+    font-family: Josefin Sans, monospace;
+    border-radius: 20%;
+    border-width: thick;
+    background-color:rgb(216, 188, 240);
+    color: rgb(138, 49, 138);
+    cursor: pointer;
+}
+#display{
+    font-size: 75px;
+    line-height: 2;
+}
+
+#timer{
+    text-align: center;
+}
